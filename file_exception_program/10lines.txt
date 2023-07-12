@@ -1,0 +1,10 @@
+this
+file
+contains
+exactly
+ten
+lines
+of
+text
+in
+it
