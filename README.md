@@ -1,4 +1,4 @@
-#Assorted Python  
+#Assorted Python Programs
 
 Various python solutions found to problems in the "Starting Out with Python" Textbook
 
