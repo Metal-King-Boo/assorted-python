@@ -4,7 +4,7 @@ Various python solutions found to problems in the "Starting Out with Python" Tex
 
 1. Date Program
    - Collects username and date of birth to display current age and today's date
-2. Dictionary, Tuples, and Sets
+2. Dictionary, Tuple, and Set Programs
    - Uses a dictionary to display valid course options
    - Uses a tuple to get the average weekly rainfall
    - Uses a set to sift out unique words in a file of unique words
