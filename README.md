@@ -28,9 +28,20 @@ Various python solutions found to problems in the "Starting Out with Python" Tex
 7. Grade Program
    - reutrns a grade letter depending on the number given
 8. List Program
-   - ...
+   - prints a 7 digit lottery number as a list
+   - takes in a series of numbers and gets basics statics on them
+   - gets monthly rainfall for a year; gets average and highest/lowest month
+   - calculate weekly sales from daily input
+   - get the wins of a baseball team from a txt file
 9. Loop Program
-   - ...
+   - draws a concentric circle
+   - draws a concentric square
+   - draws a hypno swirl
+   - draws an octagon
+   - draws several circles within each other
+   - draws a unique shape using lines of various angles
+   - draws a star
+   - draws a stop sign
 10. MatPlot Program
     - ...
 11. Modular Program
