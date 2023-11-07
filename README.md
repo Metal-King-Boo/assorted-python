@@ -27,13 +27,13 @@ Various python solutions found to problems in the "Starting Out with Python" Tex
    - handles statistical data on gass prices
 7. Grade Program
    - reutrns a grade letter depending on the number given
-8. List Program
+8. List Programs
    - prints a 7 digit lottery number as a list
    - takes in a series of numbers and gets basics statics on them
    - gets monthly rainfall for a year; gets average and highest/lowest month
    - calculate weekly sales from daily input
    - get the wins of a baseball team from a txt file
-9. Loop Program
+9. Loop Programs
    - draws a concentric circle
    - draws a concentric square
    - draws a hypno swirl
@@ -42,15 +42,24 @@ Various python solutions found to problems in the "Starting Out with Python" Tex
    - draws a unique shape using lines of various angles
    - draws a star
    - draws a stop sign
-10. MatPlot Program
-    - ...
-11. Modular Program
-    - ...
+10. MatPlot Programs
+    - draws a simple bar graph (various versions)
+    - reads a txt file and creates a pie chart of monthly expenses
+    - draws a simple line graph (various versions)
+    - draws a simple pie chart (2 versions)
+11. Modular Programs
+    - draws circles using a user-defined method
+    - draws lines using a user-defined method
+    - draws squares using a user-defined method
+    - replication of graphics_mod_demo.py found in the textbook
+    - replicattion of my_graphics.py
+    - draws a city skyline
+    - draws a snowman
 12. Orion Program
-    - ... 
+    - replicates orion.py to draw the orion constellation
 13. Rain Program
-    - ...
+    - prints yearly rainfall from user input of monthly data
 14. Target Program
-    - ...
+    - user inputs angle and force to try and hit a bullseye
 15. Random Extras
     - ...
