@@ -1,0 +1,6 @@
+Rent: $1150.00
+Gas: $147.83
+Food: $318.23
+Clothing: $97.56
+Car Payment: $200.99
+Misc: $500.00
